@@ -1,2 +1,2 @@
-# liberty-health-hr
-A new hire/onboarding service, geared toward medical organizations.  Open source.
+# liberty-health-api
+API for Liberty Health services, geared toward medical organizations.  Open source.
